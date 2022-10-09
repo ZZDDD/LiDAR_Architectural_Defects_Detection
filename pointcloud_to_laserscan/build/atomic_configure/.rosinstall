@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/groupe/pointcloud_to_laserscan/devel/setup.sh

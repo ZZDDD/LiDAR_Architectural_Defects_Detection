@@ -1,0 +1,2 @@
+pointcloud_to_laserscan-lunar-devel
+-DCATKIN_DEVEL_PREFIX=/home/groupe/pointcloud_to_laserscan/devel -DCMAKE_INSTALL_PREFIX=/home/groupe/pointcloud_to_laserscan/install -G Unix Makefiles
